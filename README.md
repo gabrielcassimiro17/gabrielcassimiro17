@@ -2,9 +2,8 @@
 
 I'm Gabriel Cassimiro!
 
-I'm currently working as a Data Scientist @[Falconi](https://www.falconi.com/)
+I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 
-My contacts are:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cassimiro/)
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://gabrielcassimiro17.medium.com/)
