@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+I'm Gabriel Cassimiro!
+
+I'm currently working as a Data Scientist @[Falconi](https://www.falconi.com/)
+
+My contacts are:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cassimiro/)
+[![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://gabrielcassimiro17.medium.com/)
 <!--
 **gabrielcassimiro17/gabrielcassimiro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io//my-stack)
 
 Here are some ideas to get you started:
 
