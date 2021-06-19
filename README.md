@@ -9,6 +9,7 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 [![Medium](https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white)](https://gabrielcassimiro17.medium.com/)
 
 
+<!--
 ## ⭐ My GitHub Stats
 
 <p align="center">
@@ -19,7 +20,7 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 </p>
 
 
-<!--
+
 
 
 
