@@ -18,6 +18,11 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gabrielcassimiro17&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+## ☕ Buy me a coffee
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cassimiro)
 <!--
 
 
