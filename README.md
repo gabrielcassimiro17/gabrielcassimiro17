@@ -27,6 +27,7 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 <br />
 <br />
 
+---
 
 ### 📕 Latest Blog Posts
 - [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
@@ -34,6 +35,8 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 
 <br />
 <br />
+
+---
 
 ### ⭐ My GitHub Stats
 
@@ -45,6 +48,7 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 </p>
 <br />
 
+---
 
 ### <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> Buy me a coffee
 <br />
