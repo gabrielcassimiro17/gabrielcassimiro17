@@ -24,11 +24,11 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 <img align="left" alt="VS Code" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" />
 <img align="left" alt="Notion" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg" />
 
+<br />
+<br />
 
 ---
 
-<br />
-<br />
 
 ### 📕 Latest Blog Posts
 - [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
