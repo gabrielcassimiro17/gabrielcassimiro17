@@ -21,12 +21,15 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/raspberrypi.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vscode.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/isualstudiocode.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg" />
 
-
-
 <br />
+
+### 📕 Latest Blog Posts
+- [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
+- [Classificação de imagens com Python e OpenCV](https://gabrielcassimiro17.medium.com/classifica%C3%A7%C3%A3o-de-imagens-com-python-e-opencv-4c1edca71510)
+
 
 ### ⭐ My GitHub Stats
 
@@ -41,10 +44,10 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 ### <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/buymeacoffee.svg" /> Buy me a coffee
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cassimiro)
+
+
+
 <!--
-
-
-
 
 
 **gabrielcassimiro17/gabrielcassimiro17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
