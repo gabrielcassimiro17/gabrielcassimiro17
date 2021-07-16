@@ -31,6 +31,7 @@ I'm currently working as a Data Scientist @ [Falconi](https://www.falconi.com/)
 
 
 ### 📕 Latest Blog Posts
+- [Object Detection with Tensorflow](https://towardsdatascience.com/object-detection-with-tensorflow-model-and-opencv-d839f3e42849)
 - [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
 - [Classificação de imagens com Python e OpenCV](https://gabrielcassimiro17.medium.com/classifica%C3%A7%C3%A3o-de-imagens-com-python-e-opencv-4c1edca71510)
 
