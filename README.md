@@ -2,9 +2,9 @@
 
 I'm Gabriel Cassimiro!
 
-- Working as a Data Scientist at [Falconi](https://www.falconi.com/)
-- Master's Student in Artificial Intelligence at [UFMG](https://ufmg.br/)
-- Professional Machine Learning Engineer by GCP [Certification](https://v2.credential.net/a22e48fd-7868-471a-be1b-87aad61518ac#gs.id2v7d)
+- Working as a Data Scientist at [Falconi](https://www.falconi.com/)<img align="left" alt="Python" height="32" width="52" src="https://avatars.githubusercontent.com/u/43240208?s=200&v=4" />
+- Master's Student in Artificial Intelligence at [UFMG](https://ufmg.br/)<img align="left" alt="Python" height="32" width="52" src="https://lh6.googleusercontent.com/-YfNK5GDn3xg/AAAAAAAAAAI/AAAAAAAAAAA/ewV9vgSD6B0/s60-p-k-no-ns-nd/photo.jpg" />
+- Professional Machine Learning Engineer by GCP [Certification](https://v2.credential.net/a22e48fd-7868-471a-be1b-87aad61518ac#gs.id2v7d)<img align="left" alt="Python" height="32" width="52" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42830917" />
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cassimiro/)
