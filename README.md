@@ -2,8 +2,9 @@
 
 I'm Gabriel Cassimiro!
 
-- I'm currently working as a Data Scientist at [Falconi](https://www.falconi.com/)
-- I'm a Master Student in Artificial Intelligence at [UFMG](https://ufmg.br/)
+- Working as a Data Scientist at [Falconi](https://www.falconi.com/)
+- Master's Student in Artificial Intelligence at [UFMG](https://ufmg.br/)
+- Professional Machine Learning Engineer by GCP [Certification](https://v2.credential.net/a22e48fd-7868-471a-be1b-87aad61518ac#gs.id2v7d)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cassimiro/)
