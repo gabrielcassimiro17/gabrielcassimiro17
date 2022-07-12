@@ -34,6 +34,7 @@ I'm Gabriel Cassimiro!
 
 
 ### 📕 Latest Blog Posts
+- [Predicting My Next Workout with Machine Learning: Part 1](https://towardsdatascience.com/predicting-my-next-workout-with-machine-learning-part-1-2fdb07f9ded2)
 - [Object Detection with Tensorflow](https://towardsdatascience.com/object-detection-with-tensorflow-model-and-opencv-d839f3e42849)
 - [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
 - [How to prepare for the GCP Professional Machine Learning Engineer exam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f)
