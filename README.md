@@ -34,11 +34,11 @@ I'm Gabriel Cassimiro!
 
 
 ### 📕 Latest Blog Posts
+- [Solving Unity Environment with Deep Reinforcement Learning](https://medium.com/towards-data-science/solving-unity-environment-with-deep-reinforcement-learning-836dc181ee3b)
 - [Predicting My Next Workout with Machine Learning: Part 1](https://towardsdatascience.com/predicting-my-next-workout-with-machine-learning-part-1-2fdb07f9ded2)
 - [Object Detection with Tensorflow](https://towardsdatascience.com/object-detection-with-tensorflow-model-and-opencv-d839f3e42849)
 - [Transfer Learning with VGG16 and Keras](https://towardsdatascience.com/transfer-learning-with-vgg16-and-keras-50ea161580b4)
 - [How to prepare for the GCP Professional Machine Learning Engineer exam](https://towardsdatascience.com/how-to-prepare-for-the-gcp-professional-machine-learning-engineer-exam-b1c59967355f)
-- [Classificação de imagens com Python e OpenCV](https://gabrielcassimiro17.medium.com/classifica%C3%A7%C3%A3o-de-imagens-com-python-e-opencv-4c1edca71510)
 
 
 ---
