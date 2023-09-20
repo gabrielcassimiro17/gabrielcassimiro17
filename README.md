@@ -33,6 +33,7 @@ I'm Gabriel Cassimiro!
 
 
 ### 📕 Latest Blog Posts
+- [Async for LangChain and LLMs](https://medium.com/towards-data-science/async-calls-for-chains-with-langchain-3818c16062ed)
 - [A Deep Dive into Actor-Critic methods with the DDPG Algorithm](https://medium.com/geekculture/a-deep-dive-into-the-ddpg-algorithm-for-continuous-control-2718222c333e)
 - [Solving Unity Environment with Deep Reinforcement Learning](https://medium.com/towards-data-science/solving-unity-environment-with-deep-reinforcement-learning-836dc181ee3b)
 - [Predicting My Next Workout with Machine Learning: Part 1](https://towardsdatascience.com/predicting-my-next-workout-with-machine-learning-part-1-2fdb07f9ded2)
