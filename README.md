@@ -2,7 +2,7 @@
 
 I'm Gabriel Cassimiro!
 
-- Working as a Generative AI Tech Lead at [C6 Bank]([https://stefanini.com/en/global](https://www.c6bank.com.br/))  
+- Lead AI Engineer at Sierra Studio
 - Google Developer Expert in Machine Learning <img height="15" src="https://seeklogo.com/images/G/google-developers-logo-3FB15D7DCE-seeklogo.com.png"> 
 - Professional Machine Learning Engineer by GCP [Certification](https://v2.credential.net/a22e48fd-7868-471a-be1b-87aad61518ac#gs.id2v7d)   <img height="30" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/42830917">
 
